@@ -1,0 +1,2 @@
+# gyakorlo
+Gyakorlas a programozasra
